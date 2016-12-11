@@ -10,3 +10,4 @@ profiles.clj
 /.nrepl-port
 .hgignore
 .hg/
+Clojure REPL
